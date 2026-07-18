@@ -1,6 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="<img width="1009" height="589" alt="image" src="https://github.com/user-attachments/assets/d1b8446f-3eae-4569-bbd7-7ece43e688a4" />
-" />
+  <img width="1200" alt="Print da Página" src="print-da-pagina.png" />
 </div>
 
 # Run and deploy your AI Studio app
@@ -12,7 +11,6 @@ View your app in AI Studio: https://ai.studio/apps/29aa7e22-7759-48a8-bcc6-1a3a2
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
