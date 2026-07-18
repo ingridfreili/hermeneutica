@@ -1,0 +1,6 @@
+{
+  "name": "Hermeneutica - Teologia Comparada",
+  "description": "Buscador e comparador hermenêutico de textos e versículos bíblicos sob as perspectivas católica, reformada, calvinista, ortodoxa e judaica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
